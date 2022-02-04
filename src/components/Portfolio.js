@@ -46,6 +46,15 @@ const projects = [
     image: "/img/beach.jpeg",
     description: "The best way to plan for a vacation is right here!",
     repo: "https://github.com/akidane23/vacation_packages",
+  },
+  {
+    id: 5,
+    title: "nfteez.",
+    languages: "html, css, js, Handlebars, mysql",
+    packages: "express, json, bcrypt",
+    image: "/img/final.png",
+    description: "Choose your favorite NFT!",
+    repo: "https://radiant-springs-59444.herokuapp.com/",
   }
 ];
 
